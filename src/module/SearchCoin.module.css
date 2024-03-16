@@ -1,0 +1,8 @@
+.item{
+    display: flex;
+    margin: 20px;
+    cursor: pointer;
+}
+.item img{
+    margin: 0 15px;
+}

@@ -1,0 +1,32 @@
+:root {
+    font-family: Inter , system-ui, Avenir, Helvetica, Arial, sans-serif; 
+    line-height: 1.5;
+}
+body{
+    margin: auto;
+    max-width: 1200px;
+    min-width: 100vh;
+    padding: 10px;
+    background-color: #131315;
+    color: white;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 100px;
+    min-height: 1000px;
+}
+.container-serched{
+    position: absolute;
+    left: 12rem;
+    right: 2rem;
+    background-color: #1c1c2a;
+    width: 20%;
+    border-radius: 20px;
+    top: 11rem;
+}

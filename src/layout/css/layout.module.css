@@ -1,0 +1,11 @@
+header{
+    font-size: 2rem;
+    background-color: #16164d;
+    font-weight: bolder;
+    padding: 1rem;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+    margin: 1rem;
+}

@@ -1,0 +1,19 @@
+.coinName{
+    margin-top: 3rem;
+    padding: 0.5rem;
+    color: white;
+    background: #3e3e3e;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+select{
+    margin-top: 3rem;
+    padding: 0.5rem;
+    color: white;
+    background: #3e3e3e;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-left: 1rem;
+}
